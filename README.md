@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/prguez-training/Peter-Test/_apis/build/status/pedrorguezhdezcom.pipelines-java?branchName=master)](https://dev.azure.com/prguez-training/Peter-Test/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
